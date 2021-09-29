@@ -1,0 +1,1 @@
+# This dir is mapped to the VM as /vagrant_data
